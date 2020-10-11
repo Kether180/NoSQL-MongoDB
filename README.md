@@ -4,8 +4,6 @@ NoSQL/MongoDB
 
 ##Technonologies
 
-- NoSQL
-- MAMP
-- SequelPro
+- MAMP  SequelPro : NoSQL
 
-- MongoDB - JSON
+- MongoDB : JSON
