@@ -2,10 +2,9 @@
 NoSQL/MongoDB
 
 
-#Technonologies
+##Technonologies
 
-MariaDB
-MongoDB
-NoSQL
-MAMP
-SequelPro
+- NoSQL
+- MongoDB
+- MAMP
+- SequelPro
